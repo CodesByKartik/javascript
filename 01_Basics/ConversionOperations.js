@@ -43,5 +43,6 @@ console.log(1 + 2 + "2")
 console.log(1 + 2 + 3 + "4" + 5 + 6)
 console.log(1 + 2 + 3 + "4" + (5 + 6))
 console.log(1 + 2 + "3" + 4 + 5 + 6 + "7" + 8 + 9 + "0")
-
+console.log("2" == 2) // false, because types are different
+console.log("2" === 2) // false, because types are different
 
